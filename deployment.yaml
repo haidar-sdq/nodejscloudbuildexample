@@ -21,6 +21,6 @@ spec:
         app: myreact-app
     spec:
       containers:
-      - image: gcr.io/double-voice-335917/myreact-app
+      - image: gcr.io/project-id/myreact-app
         imagePullPolicy: Always
         name: myreact-app
